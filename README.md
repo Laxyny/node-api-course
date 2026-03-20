@@ -73,9 +73,9 @@ Chaque journée se termine par une **évaluation pratique de 2h notée sur 20**.
 Les évaluations sont un **projet fil rouge** : vous construisez la même API Bibliothèque en l'enrichissant chaque jour.
 
 Les instructions détaillées de chaque évaluation (critères, barème) se trouvent en bas de chaque fichier de cours :
-- [Évaluation Jour 1](./day1.md#-évaluation-jour-1--projet-fil-rouge--api-bibliothèque)
-- [Évaluation Jour 2](./day2.md#-évaluation-jour-2--projet-fil-rouge--api-bibliothèque-avec-persistance)
-- [Évaluation Jour 3](./day3.md#-évaluation-jour-3--projet-fil-rouge--api-bibliothèque-sécurisée)
+- [Évaluation Jour 1](./Day1/Day1.md#-évaluation-jour-1--projet-fil-rouge--api-bibliothèque)
+- [Évaluation Jour 2](./Day2/Day2.md#-évaluation-jour-2--projet-fil-rouge--api-bibliothèque-avec-persistance)
+- [Évaluation Jour 3](./Day3/Day3.md#-évaluation-jour-3--projet-fil-rouge--api-bibliothèque-sécurisée)
 
 ---
 
